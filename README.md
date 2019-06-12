@@ -1,6 +1,10 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png" alt="Kingfisher" title="Kingfisher" width="557"/>
+<img src="https://github.com/IrKor/Kingfisher/branches" alt="Kingfisher" title="commits" width="557"/>
 </p>
+<a href="https://github.com/IrKor/Kingfisher/commits/master"><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/irkor/Kingfisher/master.svg"></a>
+
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/irkor/Kingfisher.svg">
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/irkor/Kingfisher/master.svg">
 
 <p align="center">
 <a href="https://travis-ci.org/onevcat/Kingfisher"><img src="https://img.shields.io/travis/onevcat/Kingfisher/master.svg"></a>
@@ -136,6 +140,7 @@ Thank you to all our backers! Your support is really important for the project a
 
 <a href="https://opencollective.com/kingfisher#backers" target="_blank"><img src="https://opencollective.com/kingfisher/backers.svg?width=890"></a>
 
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/irkor/Kingfisher/master.svg">
 
 ## Sponsors
 
